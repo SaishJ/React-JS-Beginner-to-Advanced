@@ -1,9 +1,11 @@
 import "./App.css";
+import FirstComponent from "./components/Greet"; //Default Export
+//import Greet from "./components/Greet"; //Named Export
 
 function App() {
   return (
     <div className="App">
-      <h1>Hello! World</h1>
+      <FirstComponent />
     </div>
   );
 }
