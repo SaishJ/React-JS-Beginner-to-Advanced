@@ -15,9 +15,10 @@ class Message extends Component {
   }
 
   render() {
+    const { Message } = this.state; //Destructure state.
     return (
       <div>
-        <h1>{this.state.Message}</h1>
+        <h1>{Message}</h1>
         <button onClick={() => this.changeMessage()}>Click Me</button>
       </div>
     );
