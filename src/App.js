@@ -4,20 +4,24 @@ import Welcome from "./components/Welcome";
 import Hello from "./components/Hello";
 import Message from "./components/Message";
 import Counter from "./components/counter";
+import FunctionClick from "./components/FunctionClick";
+import ClassClick from "./components/ClassClick";
 
 function App() {
   return (
     <div className="App">
+      <FunctionClick />
+      <ClassClick />
       {/* <Counter /> */}
-      <Message />
+      {/* <Message /> */}
       {/* Functional Components props */}
-      <Greet name="Saish" nickName="SJ" />
+      {/* <Greet name="Saish" nickName="SJ" /> */}
       {/* <Greet name="Pratik" nickName="PZ" />
       <Greet name="Prafulla" nickName="Papya" /> */}
       {/* Class Component props */}
-      <Welcome name="Shivam" nickName="SA">
-        {/* <button>Click Me</button> */}
-      </Welcome>
+      {/* <Welcome name="Shivam" nickName="SA"> */}
+      {/* <button>Click Me</button> */}
+      {/* </Welcome> */}
       {/* <Hello /> */}
     </div>
   );
