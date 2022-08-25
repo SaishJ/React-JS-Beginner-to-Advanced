@@ -6,12 +6,14 @@ import Message from "./components/Message";
 import Counter from "./components/counter";
 import FunctionClick from "./components/FunctionClick";
 import ClassClick from "./components/ClassClick";
+import EvenBind from "./components/EventBind";
 
 function App() {
   return (
     <div className="App">
-      <FunctionClick />
-      <ClassClick />
+      <EvenBind />
+      {/* <FunctionClick /> */}
+      {/* <ClassClick /> */}
       {/* <Counter /> */}
       {/* <Message /> */}
       {/* Functional Components props */}
