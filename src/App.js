@@ -9,11 +9,13 @@ import ClassClick from "./components/ClassClick";
 import EvenBind from "./components/EventBind";
 import ParentComponent from "./components/ParentComponent";
 import UserGreeting from "./components/UserGreeting";
+import PersonList from "./components/PersonList";
 
 function App() {
   return (
     <div className="App">
-      <UserGreeting />
+      <PersonList />
+      {/* <UserGreeting /> */}
       {/* <ParentComponent /> */}
       {/* <EvenBind /> */}
       {/* <FunctionClick /> */}
