@@ -7,11 +7,13 @@ import Counter from "./components/counter";
 import FunctionClick from "./components/FunctionClick";
 import ClassClick from "./components/ClassClick";
 import EvenBind from "./components/EventBind";
+import ParentComponent from "./components/ParentComponent";
 
 function App() {
   return (
     <div className="App">
-      <EvenBind />
+      <ParentComponent />
+      {/* <EvenBind /> */}
       {/* <FunctionClick /> */}
       {/* <ClassClick /> */}
       {/* <Counter /> */}
