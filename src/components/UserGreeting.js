@@ -48,3 +48,4 @@ export default UserGreeting;
 // 4) Short circuit operator
 
 /* if/else statement not work in JSX. JSX is just syntactic sugar for function calls and object construction. */
+// In most cases use 3 or 4 way
