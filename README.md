@@ -189,3 +189,5 @@ export default ClassClick;
 ```
 
 ### [Binding Event Handlers](https://github.com/SaishJ/React-JS-Beginner-to-Advanced/commit/6999a5a35a3c163f62a3918ce5e47ebeb38d02dc#diff-d8e2fd228629da81ebb95e75620e3bff49619c19c32244fdeea37f9b0b365ec7)
+
+### [Methods as Props](https://github.com/SaishJ/React-JS-Beginner-to-Advanced/commit/7b5eae4edfe1a270ade28602721d20eea2405e2d)
