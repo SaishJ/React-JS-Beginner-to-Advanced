@@ -10,11 +10,13 @@ import EvenBind from "./components/EventBind";
 import ParentComponent from "./components/ParentComponent";
 import UserGreeting from "./components/UserGreeting";
 import PersonList from "./components/PersonList";
+import NameList from "./components/NameList";
 
 function App() {
   return (
     <div className="App">
-      <PersonList />
+      <NameList />
+      {/* <PersonList /> */}
       {/* <UserGreeting /> */}
       {/* <ParentComponent /> */}
       {/* <EvenBind /> */}
