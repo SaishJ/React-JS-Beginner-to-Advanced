@@ -197,3 +197,5 @@ export default ClassClick;
 ### [List Rendering](https://github.com/SaishJ/React-JS-Beginner-to-Advanced/commit/d7d48445fa9578b28fb68fc50e5cecbf5d78132d#diff-da356e7f0ec06b582f616a27e404266469bc463344c1378741025425ddf6611c)
 
 ### [List and Keys](https://github.com/SaishJ/React-JS-Beginner-to-Advanced/commit/017b8b8f7a3121cb1efbeb6bb87b3712ed1e10a0)
+
+### [Index as key](https://github.com/SaishJ/React-JS-Beginner-to-Advanced/commit/902d326ce3d663f78cdb262180ba933ef9f392a3#diff-85087cfdd57d5bb30b1aac275e7786616c92344ac9c34d6556bf0879bb248287)
