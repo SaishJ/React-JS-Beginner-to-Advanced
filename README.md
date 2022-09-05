@@ -205,3 +205,5 @@ export default ClassClick;
 ### [Form Handling](https://github.com/SaishJ/React-JS-Beginner-to-Advanced/commit/4b36f24bf95bfa76b7f8c7fb8599754d4b916ff5)
 
 ### [Component Lifecycle Methods](https://github.com/SaishJ/React-JS-Beginner-to-Advanced/commit/bbbbe658941b4920312e960cf7c208125d48ce01)
+
+### [Fragment](https://github.com/SaishJ/React-JS-Beginner-to-Advanced/commit/034c6f8150393531f612a95789cb5fa3469efe8c)

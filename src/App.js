@@ -16,11 +16,13 @@ import Inline from "./components/Inline";
 import Form from "./components/Form";
 import LifecycleA from "./components/LifecycleA";
 import FragmentsDemo from "./components/FragmentsDemo";
+import ParentComp from "./components/ParentComp";
 
 function App() {
   return (
     <div className="App">
-      <FragmentsDemo />
+      <ParentComp />
+      {/* <FragmentsDemo /> */}
       {/* <LifecycleA /> */}
       {/* <Form /> */}
       {/* <StyleSheet primary={true} /> */}
