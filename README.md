@@ -209,3 +209,5 @@ export default ClassClick;
 ### [Fragment](https://github.com/SaishJ/React-JS-Beginner-to-Advanced/commit/034c6f8150393531f612a95789cb5fa3469efe8c)
 
 ### [Pure Components](https://github.com/SaishJ/React-JS-Beginner-to-Advanced/commit/9ececc6e611790b360fc76a60406f2f408bbc9df)
+
+### [Memo](https://github.com/SaishJ/React-JS-Beginner-to-Advanced/commit/7576d38d7e5235c89aa33b5025b16bf694c1604c)
