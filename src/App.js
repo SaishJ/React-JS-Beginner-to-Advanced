@@ -19,12 +19,14 @@ import FragmentsDemo from "./components/FragmentsDemo";
 import ParentComp from "./components/ParentComp";
 import RefsDemo from "./components/RefsDemo1";
 import RefDemo2 from "./components/RefDemo2";
+import FocusInput from "./components/FocusInput";
 
 function App() {
   return (
     <div className="App">
-      <RefsDemo />
-      <RefDemo2 />
+      <FocusInput />
+      {/* <RefsDemo /> */}
+      {/* <RefDemo2 /> */}
       {/* <ParentComp /> */}
       {/* <FragmentsDemo /> */}
       {/* <LifecycleA /> */}
