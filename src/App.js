@@ -21,11 +21,13 @@ import RefsDemo from "./components/RefsDemo1";
 import RefDemo2 from "./components/RefDemo2";
 import FocusInput from "./components/FocusInput";
 import FRParentInput from "./components/FRParentInput";
+import PortalDemo from "./components/PortalDemo";
 
 function App() {
   return (
     <div className="App">
-      <FRParentInput />
+      <PortalDemo />
+      {/* <FRParentInput /> */}
       {/* <FocusInput /> */}
       {/* <RefsDemo /> */}
       {/* <RefDemo2 /> */}
