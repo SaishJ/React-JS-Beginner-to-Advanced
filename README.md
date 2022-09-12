@@ -219,3 +219,22 @@ export default ClassClick;
 ### [Forwarding Refs](https://github.com/SaishJ/React-JS-Beginner-to-Advanced/commit/9a57ffbe3d6eeea400c3604bc66fe6bb6bafabdd)
 
 ### [Portals](https://github.com/SaishJ/React-JS-Beginner-to-Advanced/commit/89a9384c40963c77ec47ac76cbd8699ee1bebe4d)
+
+### [Error Boundary](https://github.com/SaishJ/React-JS-Beginner-to-Advanced/commit/83c11fa8ef5b3c7cf3a0a71495993ea9fed97053)
+
+### [Higher Order Component]()
+
+```jsx
+import React from "react";
+
+const UpdatedComponent = (OriginalComponent) => {
+  class NewComponent extends React.Component {
+    render() {
+      return <OriginalComponent />;
+    }
+  }
+  return NewComponent;
+};
+
+export default UpdatedComponent;
+```
