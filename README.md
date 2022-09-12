@@ -222,7 +222,7 @@ export default ClassClick;
 
 ### [Error Boundary](https://github.com/SaishJ/React-JS-Beginner-to-Advanced/commit/83c11fa8ef5b3c7cf3a0a71495993ea9fed97053)
 
-### [Higher Order Component]()
+### [Higher Order Component](https://github.com/SaishJ/React-JS-Beginner-to-Advanced/commit/1d7a9019dce79ea77fd420d25f5cd409392fb84d)
 
 ```jsx
 import React from "react";
@@ -238,3 +238,5 @@ const UpdatedComponent = (OriginalComponent) => {
 
 export default UpdatedComponent;
 ```
+
+### [Render Peops]()
