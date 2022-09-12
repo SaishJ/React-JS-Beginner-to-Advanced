@@ -239,4 +239,6 @@ const UpdatedComponent = (OriginalComponent) => {
 export default UpdatedComponent;
 ```
 
-### [Render Peops]()
+### [Render Peops](https://github.com/SaishJ/React-JS-Beginner-to-Advanced/commit/d60d9bec7747e75247a97d22406520cbac48fa0a)
+
+### [Context]()
