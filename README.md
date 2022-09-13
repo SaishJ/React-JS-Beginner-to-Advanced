@@ -242,3 +242,5 @@ export default UpdatedComponent;
 ### [Render Peops](https://github.com/SaishJ/React-JS-Beginner-to-Advanced/commit/d60d9bec7747e75247a97d22406520cbac48fa0a)
 
 ### [Context](https://github.com/SaishJ/React-JS-Beginner-to-Advanced/commit/c925fec6db26889ac391d1c8cd072b67e40c2b49)
+
+### [HTTP Get Request](https://github.com/SaishJ/React-JS-Beginner-to-Advanced/commit/c33bcb13cc37673c610879674e3a1190e574963e)

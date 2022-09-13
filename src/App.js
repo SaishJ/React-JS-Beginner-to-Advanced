@@ -32,11 +32,13 @@ import HoverCounterTwo from "./components/HoverCounterTwo";
 import { UserProvider } from "./components/useContext";
 import ComponentA from "./components/ComponentA";
 import PostList from "./components/PostList";
+import PostForm from "./components/PostForm";
 
 function App() {
   return (
     <div className="App">
-      <PostList />
+      <PostForm />
+      {/* <PostList /> */}
       {/* <UserProvider value="Saish">
         <ComponentA />
       </UserProvider> */}
