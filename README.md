@@ -244,3 +244,5 @@ export default UpdatedComponent;
 ### [Context](https://github.com/SaishJ/React-JS-Beginner-to-Advanced/commit/c925fec6db26889ac391d1c8cd072b67e40c2b49)
 
 ### [HTTP Get Request](https://github.com/SaishJ/React-JS-Beginner-to-Advanced/commit/c33bcb13cc37673c610879674e3a1190e574963e)
+
+### [HTTP Post Request](https://github.com/SaishJ/React-JS-Beginner-to-Advanced/commit/ebca682b143442dc1efd5937257a4959af257dad)
