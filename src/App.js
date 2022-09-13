@@ -31,13 +31,15 @@ import ClickCounterTwo from "./components/ClickCounterTwo";
 import HoverCounterTwo from "./components/HoverCounterTwo";
 import { UserProvider } from "./components/useContext";
 import ComponentA from "./components/ComponentA";
+import PostList from "./components/PostList";
 
 function App() {
   return (
     <div className="App">
-      <UserProvider value="Saish">
+      <PostList />
+      {/* <UserProvider value="Saish">
         <ComponentA />
-      </UserProvider>
+      </UserProvider> */}
       {/* <Increment
         render={(count, incrementCount) => (
           <ClickCounterTwo count={count} incrementCount={incrementCount} />
